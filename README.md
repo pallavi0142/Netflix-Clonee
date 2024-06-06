@@ -4,7 +4,7 @@ CSS,<br>
 JavaScript,<br>
 Jquery,<br>
 FireBase, <br>
-API → TheMoveiDB & Youtube, <br>
+
 
 ## Time Duration -> 5–7 Days
 
